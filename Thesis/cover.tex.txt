@@ -1,0 +1,49 @@
+\begin{titlepage}
+    \begin{center}
+        \vspace*{1cm}
+        
+        \begin{figure}[t]
+        \centering
+        \includegraphics[width=7cm]{mb.png}
+        \end{figure}
+
+        \vspace{2cm}
+        
+        \Large
+        
+        \textbf{Thesis proposal}  \hfill
+        
+        
+        
+        \Large
+        \vspace{1.5cm}
+     
+        \textbf{By}  \hfill
+        
+        \textbf{Your name}  \hfill
+        
+        %\vspace{0.5cm}
+        \LARGE
+        
+     
+        \vspace{3cm}
+      
+        \textbf{Thesis name}  
+        
+        
+        
+        \vspace{3.5cm}
+        
+        \large
+        \selectlanguage{Under the supervision of} \textbf{Enter P.I}  \hfill
+        
+       
+        \vspace{0.5cm}
+            
+       
+        \Large
+        \textbf{Enter date when finished} \hfill
+        
+            
+    \end{center}
+\end{titlepage}
